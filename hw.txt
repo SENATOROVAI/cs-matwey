@@ -10,6 +10,7 @@ Git:
 ==================================
 Python:
 *Обязательно пользуйся визуализатором https://pythontutor.com/
+Скачать https://t.me/c/1937296927/1/16676 сначала прочитать 85-95стр, потом всё остальное
 
 1)делай параллельно https://stepik.org/course/63085/promo и https://karpov.courses/pythonzero
 2)https://www.kaggle.com/learn/intro-to-programming
