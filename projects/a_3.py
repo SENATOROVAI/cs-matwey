@@ -2,7 +2,6 @@
 
 import sys
 
-
 num_a: str = input()
 num_b: str = input()
 num_c: int = 1
